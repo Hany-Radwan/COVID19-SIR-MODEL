@@ -1,13 +1,13 @@
-Code Crew – Health Informatics Project
-Group name: Code Crew
-Course: Health Informatics
-Members:
+# Code Crew – Health Informatics Project
 
-Hany Radwan
-Joel Meloottu Johnson
-Pournami Ashok
-Parvathy Krishna
-Sunil Alexander
-Description: Python project for the informatics class.
+**Group name:** Code Crew  
+**Course:** Health Informatics
 
-SIR Model for COVID 19
+**Members**
+- Hany Radwan
+- Joel Meloottu Johnson
+- Pournami Ashok
+- Parvathy Krishna
+- Sunil Alexander
+
+**Description:** Python project for the informatics class. SIR model for COVID-19.
