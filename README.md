@@ -88,5 +88,5 @@ Contains unit tests to verify the mathematical accuracy of the model (e.g., ensu
 
 
 
-### Authors:
-### Code-Crew Team – Deggendorf Institute of Technology
+### Author:
+### Pharmacist: Hany Z. Radwan – Deggendorf Institute of Technology
