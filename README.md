@@ -89,4 +89,4 @@ Contains unit tests to verify the mathematical accuracy of the model (e.g., ensu
 
 
 ### Author:
-### Pharmacist: Hany Z. Radwan – Deggendorf Institute of Technology
+### Code Crew  – Deggendorf Institute of Technology
